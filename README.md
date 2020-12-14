@@ -1,1 +1,1 @@
-# app-academy-open
+# enumerables-in-ruby
